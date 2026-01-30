@@ -22,6 +22,10 @@ DOMAIN-SUFFIX,platform.claude.com,美国-PRO-US2-Rate:1.0
 DOMAIN-SUFFIX,copilot.microsoft.com,美国-PRO-US2-Rate:1.0
 DOMAIN-SUFFIX,gemini.google.com,美国-PRO-US2-Rate:1.0
 DOMAIN-SUFFIX,cursor.com,美国-PRO-US2-Rate:1.0
+DOMAIN-SUFFIX,cursor.sh,美国-PRO-US2-Rate:1.0
+DOMAIN-SUFFIX,cursorapi.com,美国-PRO-US2-Rate:1.0
+DOMAIN-SUFFIX,ingest.us.sentry.io,美国-PRO-US2-Rate:1.0
+DOMAIN-SUFFIX,gitkraken.dev,美国-PRO-US2-Rate:1.0
 DOMAIN-SUFFIX,windsurf.com,美国-PRO-US2-Rate:1.0
 PROCESS-NAME,*Antigravity*,美国-PRO-US2-Rate:1.0
 PROCESS-NAME,/Applications/Antigravity.app/Contents/MacOS/Electron,美国-PRO-US2-Rate:1.0
