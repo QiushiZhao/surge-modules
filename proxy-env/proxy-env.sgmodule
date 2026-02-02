@@ -3,7 +3,5 @@
 #!desc=Override profile to use 6152/6153; export https_proxy=http://127.0.0.1:6152; export http_proxy=http://127.0.0.1:6152; export all_proxy=socks5://127.0.0.1:6153
 
 [General]
-http = 127.0.0.1:6152          # 标识 HTTP 代理
-socks5 = 127.0.0.1:6153        # 标识 SOCKS5 代理
-http-listen = 127.0.0.1:6152     # 所有网卡可访问 HTTP
-socks5-listen = 127.0.0.1:6153   # 所有网卡可访问 SOCKS5
+http-listen = 127.0.0.1:6152
+socks5-listen = 127.0.0.1:6153
