@@ -1,0 +1,34 @@
+#!name=Vibe Coding Rules
+#!category=Custom
+#!desc=Vibe Coding Rules
+
+[Rule]
+DOMAIN,localhost,DIRECT
+DOMAIN-SUFFIX,antigravity.google,Japan 10
+DOMAIN-SUFFIX,antigravity-unleash.goog,Japan 10
+DOMAIN-SUFFIX,chatgpt.com,Japan 10
+DOMAIN-SUFFIX,openai.com,Japan 10
+DOMAIN-SUFFIX,oaistatic.com,Japan 10
+DOMAIN-SUFFIX,platform.openai.com,Japan 10
+DOMAIN-SUFFIX,api.openai.com,Japan 10
+DOMAIN-SUFFIX,cdn.openai.com,Japan 10
+DOMAIN-SUFFIX,developers.openai.com,Japan 10
+DOMAIN-SUFFIX,claude.com,Japan 10
+DOMAIN-SUFFIX,anthropic.com,Japan 10
+DOMAIN-SUFFIX,claude.ai,Japan 10
+DOMAIN-SUFFIX,api.anthropic.com,Japan 10
+DOMAIN-SUFFIX,docs.anthropic.com,Japan 10
+DOMAIN-SUFFIX,platform.claude.com,Japan 10
+DOMAIN-SUFFIX,copilot.microsoft.com,Japan 10
+DOMAIN-SUFFIX,gemini.google.com,Japan 10
+DOMAIN-SUFFIX,cursor.com,Japan 10
+DOMAIN-SUFFIX,cursor.sh,Japan 10
+DOMAIN-SUFFIX,cursorapi.com,Japan 10
+DOMAIN-SUFFIX,ingest.us.sentry.io,Japan 10
+DOMAIN-SUFFIX,gitkraken.dev,Japan 10
+DOMAIN-SUFFIX,gitkraken.com,Japan 10
+DOMAIN-SUFFIX,windsurf.com,Japan 10
+PROCESS-NAME,*Antigravity*,Japan 10
+PROCESS-NAME,/Applications/Antigravity.app/Contents/MacOS/Electron,Japan 10
+PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/language_server_macos_arm,Japan 10
+PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/fd,Japan 10
