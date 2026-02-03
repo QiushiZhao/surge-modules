@@ -4,31 +4,31 @@
 
 [Rule]
 DOMAIN,localhost,DIRECT
-DOMAIN-SUFFIX,antigravity.google,🇯🇵 Japan 10
-DOMAIN-SUFFIX,antigravity-unleash.goog,🇯🇵 Japan 10
-DOMAIN-SUFFIX,chatgpt.com,🇯🇵 Japan 10
-DOMAIN-SUFFIX,openai.com,🇯🇵 Japan 10
-DOMAIN-SUFFIX,oaistatic.com,🇯🇵 Japan 10
-DOMAIN-SUFFIX,platform.openai.com,🇯🇵 Japan 10
-DOMAIN-SUFFIX,api.openai.com,🇯🇵 Japan 10
-DOMAIN-SUFFIX,cdn.openai.com,🇯🇵 Japan 10
-DOMAIN-SUFFIX,developers.openai.com,🇯🇵 Japan 10
-DOMAIN-SUFFIX,claude.com,🇯🇵 Japan 10
-DOMAIN-SUFFIX,anthropic.com,🇯🇵 Japan 10
-DOMAIN-SUFFIX,claude.ai,🇯🇵 Japan 10
-DOMAIN-SUFFIX,api.anthropic.com,🇯🇵 Japan 10
-DOMAIN-SUFFIX,docs.anthropic.com,🇯🇵 Japan 10
-DOMAIN-SUFFIX,platform.claude.com,🇯🇵 Japan 10
-DOMAIN-SUFFIX,copilot.microsoft.com,🇯🇵 Japan 10
-DOMAIN-SUFFIX,gemini.google.com,🇯🇵 Japan 10
-DOMAIN-SUFFIX,cursor.com,🇯🇵 Japan 10
-DOMAIN-SUFFIX,cursor.sh,🇯🇵 Japan 10
-DOMAIN-SUFFIX,cursorapi.com,🇯🇵 Japan 10
-DOMAIN-SUFFIX,ingest.us.sentry.io,🇯🇵 Japan 10
-DOMAIN-SUFFIX,gitkraken.dev,🇯🇵 Japan 10
-DOMAIN-SUFFIX,gitkraken.com,🇯🇵 Japan 10
-DOMAIN-SUFFIX,windsurf.com,🇯🇵 Japan 10
-PROCESS-NAME,*Antigravity*,🇯🇵 Japan 10
-PROCESS-NAME,/Applications/Antigravity.app/Contents/MacOS/Electron,🇯🇵 Japan 10
-PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/language_server_macos_arm,🇯🇵 Japan 10
-PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/fd,🇯🇵 Japan 10
+DOMAIN-SUFFIX,antigravity.google,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,antigravity-unleash.goog,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,chatgpt.com,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,openai.com,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,oaistatic.com,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,platform.openai.com,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,api.openai.com,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,cdn.openai.com,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,developers.openai.com,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,claude.com,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,anthropic.com,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,claude.ai,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,api.anthropic.com,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,docs.anthropic.com,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,platform.claude.com,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,copilot.microsoft.com,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,gemini.google.com,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,cursor.com,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,cursor.sh,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,cursorapi.com,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,ingest.us.sentry.io,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,gitkraken.dev,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,gitkraken.com,🇬🇧 United Kingdom 08
+DOMAIN-SUFFIX,windsurf.com,🇬🇧 United Kingdom 08
+PROCESS-NAME,*Antigravity*,🇬🇧 United Kingdom 08
+PROCESS-NAME,/Applications/Antigravity.app/Contents/MacOS/Electron,🇬🇧 United Kingdom 08
+PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/language_server_macos_arm,🇬🇧 United Kingdom 08
+PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/fd,🇬🇧 United Kingdom 08
