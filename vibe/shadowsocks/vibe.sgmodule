@@ -1,6 +1,6 @@
-#!name=Vibe Coding Rules
+#!name=Vibe Coding Rules - Shadowsocks
 #!category=Custom
-#!desc=Vibe Coding Rules
+#!desc=Vibe Coding Rules for Shadowsocks 
 
 [Rule]
 DOMAIN,localhost,DIRECT

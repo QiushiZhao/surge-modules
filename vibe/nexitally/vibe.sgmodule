@@ -1,6 +1,6 @@
-#!name=Vibe Coding Rules
+#!name=Vibe Coding Rules - Nexitally
 #!category=Custom
-#!desc=Vibe Coding Rules
+#!desc=Vibe Coding Rules for Nexitally
 
 [Rule]
 DOMAIN,localhost,DIRECT
