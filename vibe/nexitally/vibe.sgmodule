@@ -4,6 +4,7 @@
 
 [Rule]
 DOMAIN,localhost,DIRECT
+DOMAIN-SUFFIX,nxonearth.com,DIRECT
 DOMAIN-SUFFIX,antigravity.google,🇬🇧 United Kingdom 08
 DOMAIN-SUFFIX,antigravity-unleash.goog,🇬🇧 United Kingdom 08
 DOMAIN-SUFFIX,chatgpt.com,🇬🇧 United Kingdom 08
