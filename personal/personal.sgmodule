@@ -1,0 +1,8 @@
+#!name=Personal Rules
+#!category=Custom
+#!desc=personal proxy rules
+
+[Rule]
+DOMAIN-SUFFIX,myqnapcloud.cn,DIRECT
+DOMAIN-SUFFIX,qnap.com.cn,DIRECT
+DOMAIN-SUFFIX,qlinkto.cn,DIRECT
