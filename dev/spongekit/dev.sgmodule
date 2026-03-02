@@ -1,0 +1,6 @@
+#!name=Spongekit Proxy
+#!category=Custom
+#!desc=Spongekit.com proxy rules
+
+[Rule]
+DOMAIN-SUFFIX,spongekit.com,DIRECT
