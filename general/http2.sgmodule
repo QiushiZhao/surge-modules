@@ -1,0 +1,6 @@
+#!name=Use http2
+#!category=Custom
+#!desc=Enable Http2
+
+[General]
+http2 = true

@@ -1,0 +1,6 @@
+#!name=Disable IPV6
+#!category=Custom
+#!desc=Disable IPv6
+
+[General]
+ipv6 = false
