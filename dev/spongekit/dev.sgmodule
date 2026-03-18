@@ -3,5 +3,5 @@
 #!desc=Spongekit.com proxy rules
 
 [Rule]
-DOMAIN-SUFFIX,spongekit.com,DIRECT
+DOMAIN-SUFFIX,spongekit.com,🇭🇰 Hong Kong 01
 DOMAIN-SUFFIX,rtcoversea.com,DIRECT
