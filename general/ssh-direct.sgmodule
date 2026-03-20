@@ -1,0 +1,6 @@
+#!name=SSH Direct
+#!category=Custom
+#!desc=Route SSH (22) to DIRECT
+
+[Rule]
+DST-PORT,22,DIRECT
