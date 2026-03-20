@@ -3,4 +3,4 @@
 #!desc=Route SSH (22) to DIRECT
 
 [Rule]
-DST-PORT,22,DIRECT
+DEST-PORT,22,DIRECT
