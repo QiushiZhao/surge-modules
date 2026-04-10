@@ -2,7 +2,11 @@
 #!category=Custom
 #!desc=Spongekit.com proxy rules
 
+[General]
+always-real-ip = %APPEND% road.spongekit.maxeffort.cn
+
 [Rule]
+DOMAIN-SUFFIX,road.spongekit.maxeffort.cn,DIRECT
+DOMAIN,fived-console.spongekit.com,DIRECT
 DOMAIN-SUFFIX,spongekit.com,🇭🇰 Hong Kong 01
 DOMAIN-SUFFIX,rtcoversea.com,DIRECT
-DOMAIN-SUFFIX,fived-console.spongekit.com,DIRECT
