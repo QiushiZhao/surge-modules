@@ -6,6 +6,7 @@
 always-real-ip = %APPEND% road.spongekit.maxeffort.cn
 
 [Rule]
+IP-CIDR,10.10.1.0/24,DIRECT
 DOMAIN-SUFFIX,road.spongekit.maxeffort.cn,DIRECT
 DOMAIN,fived-console.spongekit.com,DIRECT
 DOMAIN-SUFFIX,spongekit.com,🇭🇰 Hong Kong 01
