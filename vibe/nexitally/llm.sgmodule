@@ -1,0 +1,6 @@
+#!name=LLM - Nexitally
+#!category=Custom
+#!desc=Try LLM DIRECT
+
+[Rule]
+PROCESS-NAME,/Applications/ComfyUI.app/Contents/MacOS/ComfyUI,DIRECT
