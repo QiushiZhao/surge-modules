@@ -3,4 +3,5 @@
 #!desc=Try LLM DIRECT
 
 [Rule]
+PROCESS-NAME,/Applications/ComfyUI.app/,DIRECT
 PROCESS-NAME,/Applications/ComfyUI.app/Contents/MacOS/ComfyUI,DIRECT
