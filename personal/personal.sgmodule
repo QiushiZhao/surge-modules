@@ -3,12 +3,12 @@
 #!desc=personal proxy rules
 
 [Rule]
-DOMAIN-SUFFIX,bittopup.com,🇭🇰 Hong Kong 01
+DOMAIN-SUFFIX,bittopup.com,🇺🇸 USA Seattle 06
 DOMAIN-SUFFIX,myqnapcloud.cn,DIRECT
 DOMAIN-SUFFIX,qnap.com.cn,DIRECT
 DOMAIN-SUFFIX,qlinkto.cn,DIRECT
 DOMAIN-SUFFIX,dingtalk.com,DIRECT
-DOMAIN-SUFFIX,civitai.com,🇭🇰 Hong Kong 01
+DOMAIN-SUFFIX,civitai.com,🇺🇸 USA Seattle 06
 DOMAIN-SUFFIX,appstorrent.ru,DIRECT
 DOMAIN-SUFFIX,nxonearth.com,DIRECT
 DOMAIN-SUFFIX,blender.org,DIRECT
