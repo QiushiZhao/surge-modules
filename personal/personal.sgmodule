@@ -3,7 +3,7 @@
 #!desc=personal proxy rules
 
 [Rule]
-DOMAIN-SUFFIX,bittopup.com,DIRECT
+DOMAIN-SUFFIX,bittopup.com,🇭🇰 Hong Kong 01
 DOMAIN-SUFFIX,myqnapcloud.cn,DIRECT
 DOMAIN-SUFFIX,qnap.com.cn,DIRECT
 DOMAIN-SUFFIX,qlinkto.cn,DIRECT
