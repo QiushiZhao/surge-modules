@@ -5,33 +5,33 @@
 [Rule]
 DOMAIN,localhost,DIRECT
 DOMAIN-SUFFIX,nxonearth.com,DIRECT
-DOMAIN-SUFFIX,antigravity.google,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,antigravity-unleash.goog,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,chatgpt.com,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,openai.com,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,oaistatic.com,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,platform.openai.com,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,api.openai.com,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,cdn.openai.com,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,developers.openai.com,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,claude.com,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,anthropic.com,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,claude.ai,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,api.anthropic.com,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,docs.anthropic.com,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,platform.claude.com,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,copilot.microsoft.com,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,gemini.google.com,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,cursor.com,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,cursor.sh,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,cursorapi.com,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,ingest.us.sentry.io,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,gitkraken.dev,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,gitkraken.com,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,windsurf.com,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,atl-pass.com,🇺🇸 USA Seattle 04
-DOMAIN-SUFFIX,datadoghq.com,🇺🇸 USA Seattle 04
-PROCESS-NAME,*Antigravity*,🇺🇸 USA Seattle 04
-PROCESS-NAME,/Applications/Antigravity.app/Contents/MacOS/Electron,🇺🇸 USA Seattle 04
-PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/language_server_macos_arm,🇺🇸 USA Seattle 04
-PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/fd,🇺🇸 USA Seattle 04
+DOMAIN-SUFFIX,antigravity.google,🇯🇵 Japan 01
+DOMAIN-SUFFIX,antigravity-unleash.goog,🇯🇵 Japan 01
+DOMAIN-SUFFIX,chatgpt.com,🇯🇵 Japan 01
+DOMAIN-SUFFIX,openai.com,🇯🇵 Japan 01
+DOMAIN-SUFFIX,oaistatic.com,🇯🇵 Japan 01
+DOMAIN-SUFFIX,platform.openai.com,🇯🇵 Japan 01
+DOMAIN-SUFFIX,api.openai.com,🇯🇵 Japan 01
+DOMAIN-SUFFIX,cdn.openai.com,🇯🇵 Japan 01
+DOMAIN-SUFFIX,developers.openai.com,🇯🇵 Japan 01
+DOMAIN-SUFFIX,claude.com,🇯🇵 Japan 01
+DOMAIN-SUFFIX,anthropic.com,🇯🇵 Japan 01
+DOMAIN-SUFFIX,claude.ai,🇯🇵 Japan 01
+DOMAIN-SUFFIX,api.anthropic.com,🇯🇵 Japan 01
+DOMAIN-SUFFIX,docs.anthropic.com,🇯🇵 Japan 01
+DOMAIN-SUFFIX,platform.claude.com,🇯🇵 Japan 01
+DOMAIN-SUFFIX,copilot.microsoft.com,🇯🇵 Japan 01
+DOMAIN-SUFFIX,gemini.google.com,🇯🇵 Japan 01
+DOMAIN-SUFFIX,cursor.com,🇯🇵 Japan 01
+DOMAIN-SUFFIX,cursor.sh,🇯🇵 Japan 01
+DOMAIN-SUFFIX,cursorapi.com,🇯🇵 Japan 01
+DOMAIN-SUFFIX,ingest.us.sentry.io,🇯🇵 Japan 01
+DOMAIN-SUFFIX,gitkraken.dev,🇯🇵 Japan 01
+DOMAIN-SUFFIX,gitkraken.com,🇯🇵 Japan 01
+DOMAIN-SUFFIX,windsurf.com,🇯🇵 Japan 01
+DOMAIN-SUFFIX,atl-pass.com,🇯🇵 Japan 01
+DOMAIN-SUFFIX,datadoghq.com,🇯🇵 Japan 01
+PROCESS-NAME,*Antigravity*,🇯🇵 Japan 01
+PROCESS-NAME,/Applications/Antigravity.app/Contents/MacOS/Electron,🇯🇵 Japan 01
+PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/language_server_macos_arm,🇯🇵 Japan 01
+PROCESS-NAME,/Applications/Antigravity.app/Contents/Resources/app/extensions/antigravity/bin/fd,🇯🇵 Japan 01
