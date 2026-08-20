@@ -3,7 +3,7 @@
 #!desc=use custom dns
 
 [General]
-dns-server = system
+dns-server = 223.5.5.5, 1.1.1.1
 encrypted-dns-server = https://cloudflare-dns.com/dns-query
 encrypted-dns-follow-outbound-mode = false
 encrypted-dns-skip-cert-verification = false
