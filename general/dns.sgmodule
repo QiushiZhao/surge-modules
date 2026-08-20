@@ -3,8 +3,8 @@
 #!desc=use custom dns
 
 [General]
-dns-server = 1.1.1.1, 9.9.9.9
-encrypted-dns-server = https://cloudflare-dns.com/dns-query, https://dns.quad9.net/dns-query
+dns-server = system
+encrypted-dns-server = https://cloudflare-dns.com/dns-query
 encrypted-dns-follow-outbound-mode = false
 encrypted-dns-skip-cert-verification = false
 hijack-dns = *:53
