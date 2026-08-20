@@ -9,6 +9,3 @@ encrypted-dns-follow-outbound-mode = true
 encrypted-dns-skip-cert-verification = false
 hijack-dns = *:53
 read-etc-hosts = true
-
-[Rule]
-DOMAIN,cloudflare-dns.com,Proxy
