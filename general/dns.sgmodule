@@ -4,11 +4,8 @@
 
 [General]
 dns-server = 223.5.5.5, 223.6.6.6
-encrypted-dns-server = https://1.1.1.1/dns-query
-encrypted-dns-follow-outbound-mode = true
+encrypted-dns-server = encrypted-dns-server = https://dns.alidns.com/dns-query
+encrypted-dns-follow-outbound-mode = false
 encrypted-dns-skip-cert-verification = false
 hijack-dns = *:53
 read-etc-hosts = true
-
-[Rule]
-PROTOCOL,DOH,🇺🇸 USA Seattle 01
