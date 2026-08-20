@@ -4,8 +4,9 @@
 
 [General]
 dns-server = 223.5.5.5, 223.6.6.6
-encrypted-dns-server = https://dns.alidns.com/dns-query
-encrypted-dns-follow-outbound-mode = false
+encrypted-dns-server = https://9.9.9.9/dns-query
+encrypted-dns-follow-outbound-mode = true
 encrypted-dns-skip-cert-verification = false
 hijack-dns = *:53
 read-etc-hosts = true
+udp-policy-not-supported-behaviour = REJECT
