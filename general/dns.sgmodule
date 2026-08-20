@@ -5,7 +5,7 @@
 [General]
 dns-server = 1.1.1.1, 9.9.9.9
 encrypted-dns-server = https://cloudflare-dns.com/dns-query, https://dns.quad9.net/dns-query
-encrypted-dns-follow-outbound-mode = true
+encrypted-dns-follow-outbound-mode = false
 encrypted-dns-skip-cert-verification = false
 hijack-dns = *:53
 read-etc-hosts = true
