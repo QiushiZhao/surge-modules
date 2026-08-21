@@ -13,6 +13,7 @@ IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
 DOMAIN-SUFFIX,road.spongekit.maxeffort.cn,DIRECT
 DOMAIN,fived-console.spongekit.com,DIRECT
 DOMAIN,debug.spongekit.com,DIRECT
+DOMAIN,metabase.spongekit.com,DIRECT
 DOMAIN,loki.spongekit.com,DIRECT
 DOMAIN-SUFFIX,spongekit.com,🇯🇵 Japan 01
 DOMAIN-SUFFIX,rtcoversea.com,DIRECT
