@@ -1,0 +1,224 @@
+# Domains that use direct AliDNS and direct connections.
+# Source repository: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge
+# Source paths below are relative to rule/Surge; verified on 2026-10-08.
+
+# Weibo
+# Source: Sina/Sina.list
+DOMAIN-SUFFIX,sina.com.cn
+DOMAIN-SUFFIX,sina.cn
+DOMAIN-SUFFIX,sina.com
+DOMAIN-SUFFIX,sinaimg.cn
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibo.cn
+DOMAIN-SUFFIX,weibocdn.com
+DOMAIN-SUFFIX,wbimg.com
+DOMAIN-SUFFIX,t.cn
+
+# Baidu
+# Source: Baidu/Baidu.list
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,baidupcs.com
+DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,bdimg.com
+DOMAIN-SUFFIX,tieba.com
+DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,hao123img.com
+DOMAIN-SUFFIX,bdydns.com
+DOMAIN-SUFFIX,bdydns.net
+DOMAIN-SUFFIX,baidustatic.com
+
+# WeChat, QQ and Tencent
+# Source: Tencent/Tencent_All.list
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,gtimg.cn
+DOMAIN-SUFFIX,idqqimg.com
+DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,weixinbridge.com
+DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,qqmail.com
+DOMAIN-SUFFIX,foxmail.com
+DOMAIN-SUFFIX,servicewechat.com
+
+# Taobao, Tmall, Alipay, DingTalk and Aliyun Drive
+# Source: Alibaba/Alibaba_All.list
+# Additional source: China/China_All.list
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,alipay.com.cn
+DOMAIN-SUFFIX,alipaydns.com
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,aliimg.com
+DOMAIN-SUFFIX,tb.cn
+DOMAIN-SUFFIX,tbcdn.cn
+DOMAIN-SUFFIX,1688.com
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,dingtalk.cn
+DOMAIN-SUFFIX,dingding.xin
+DOMAIN-SUFFIX,alipan.com
+DOMAIN-SUFFIX,aliyundrive.com
+DOMAIN-SUFFIX,aliyundrive.net
+
+# JD
+# Source: JingDong/JingDong.list
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,360buy.com
+DOMAIN-SUFFIX,jdpay.com
+DOMAIN-SUFFIX,jdcdn.com
+
+# Pinduoduo
+# Source: Pinduoduo/Pinduoduo.list
+DOMAIN-SUFFIX,pinduoduo.com
+DOMAIN-SUFFIX,yangkeduo.com
+DOMAIN-SUFFIX,pddpic.com
+
+# Meituan and Dianping
+# Source: MeiTuan/MeiTuan.list
+# Additional source: China/China_All.list
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,dianping.com
+DOMAIN-SUFFIX,dpfile.com
+DOMAIN-SUFFIX,maoyan.com
+
+# Ele.me
+# Source: Eleme/Eleme.list
+DOMAIN-SUFFIX,ele.me
+DOMAIN-SUFFIX,elemecdn.com
+
+# Bilibili
+# Source: BiliBili/BiliBili.list
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,b23.tv
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,bilivideo.cn
+DOMAIN-SUFFIX,bilivideo.net
+
+# Douyin, Toutiao and Xigua
+# Source: ByteDance/ByteDance.list
+# Additional source: China/China_All.list
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,toutiaoimg.com
+DOMAIN-SUFFIX,toutiaovod.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,ixiguavideo.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,byteimg.com
+
+# Kuaishou
+# Source: KuaiShou/KuaiShou.list
+DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,gifshow.com
+DOMAIN-SUFFIX,kuaishouzt.com
+DOMAIN-SUFFIX,kwimgs.com
+DOMAIN-SUFFIX,ksapisrv.com
+DOMAIN-SUFFIX,yximgs.com
+
+# Xiaohongshu
+# Source: XiaoHongShu/XiaoHongShu.list
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xhscdn.com
+
+# NetEase and Youdao
+# Source: NetEase/NetEase.list
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,126.com
+DOMAIN-SUFFIX,126.net
+DOMAIN-SUFFIX,127.net
+DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,lofter.com
+DOMAIN-SUFFIX,ydstatic.com
+DOMAIN-SUFFIX,youdao.com
+
+# Zhihu
+# Source: Zhihu/Zhihu.list
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
+
+# Douban
+# Source: DouBan/DouBan.list
+DOMAIN-SUFFIX,douban.com
+DOMAIN-SUFFIX,doubanio.com
+
+# Sohu
+# Source: Sohu/Sohu.list
+DOMAIN-SUFFIX,sohu.com
+DOMAIN-SUFFIX,sohucs.com
+DOMAIN-SUFFIX,sohu.com.cn
+DOMAIN-SUFFIX,itc.cn
+
+# iQIYI
+# Source: iQIYI/iQIYI.list
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,iqiyipic.com
+DOMAIN-SUFFIX,qiyi.com
+DOMAIN-SUFFIX,qiyipic.com
+
+# Youku
+# Source: Youku/Youku.list
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,ykimg.com
+
+# Kugou and Kuwo
+# Source: KugouKuwo/KugouKuwo.list
+DOMAIN-SUFFIX,kugou.com
+DOMAIN-SUFFIX,kugou.net
+DOMAIN-SUFFIX,kuwo.cn
+
+# Amap
+# Source: GaoDe/GaoDe.list
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,autonavi.com
+
+# Railway tickets
+# Source: 12306/12306.list
+DOMAIN-SUFFIX,12306.cn
+
+# Ctrip
+# Source: XieCheng/XieCheng.list
+DOMAIN-SUFFIX,ctrip.com
+
+# Xiaomi
+# Source: XiaoMi/XiaoMi.list
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,mi-img.com
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,xiaomi.net
+DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,mifile.cn
+DOMAIN-SUFFIX,miwifi.com
+
+# Huawei
+# Source: Huawei/Huawei.list
+DOMAIN-SUFFIX,huawei.com
+DOMAIN-SUFFIX,hicloud.com
+
+# Developer and shopping communities
+# Source: China/China_All.list
+DOMAIN-SUFFIX,gitee.com
+DOMAIN-SUFFIX,oschina.net
+DOMAIN-SUFFIX,csdn.net
+DOMAIN-SUFFIX,csdnimg.cn
+DOMAIN-SUFFIX,cnblogs.com
+DOMAIN-SUFFIX,jianshu.com
+DOMAIN-SUFFIX,jianshu.io
+DOMAIN-SUFFIX,juejin.cn
+DOMAIN-SUFFIX,juejin.im
+DOMAIN-SUFFIX,segmentfault.com
+DOMAIN-SUFFIX,smzdm.com

@@ -1,8 +1,16 @@
 #!name=Custom DNS
 #!category=Custom
-#!desc=use custom dns
+#!desc=Use Google DoH by default and direct AliDNS for domains in the domestic ruleset.
 
 [General]
 dns-server = 8.8.8.8, 8.8.4.4
 doh-server = https://8.8.8.8/dns-query
 encrypted-dns-follow-outbound-mode = true
+
+[Host]
+dns.alidns.com = 223.5.5.5
+RULE-SET:https://raw.githubusercontent.com/QiushiZhao/surge-modules/refs/heads/main/general/cn-direct.list = server:https://dns.alidns.com/dns-query
+
+[Rule]
+DOMAIN,dns.alidns.com,DIRECT
+RULE-SET,https://raw.githubusercontent.com/QiushiZhao/surge-modules/refs/heads/main/general/cn-direct.list,DIRECT,update-interval=86400
