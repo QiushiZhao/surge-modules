@@ -1,6 +1,6 @@
 # Domains that use direct AliDNS and direct connections.
 # Source repository: https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge
-# Source paths below are relative to rule/Surge; verified on 2026-10-08.
+# Source paths are relative to rule/Surge unless a full URL is given; verified on 2026-10-08.
 
 # Weibo
 # Source: Sina/Sina.list
@@ -104,6 +104,48 @@ DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,bilivideo.net
 
+# Lark
+# Source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/lark-global
+DOMAIN-SUFFIX,lark.cn
+DOMAIN-SUFFIX,larkoffice.com
+DOMAIN-SUFFIX,larkofficeapp.com
+DOMAIN-SUFFIX,larkofficecdn.com
+DOMAIN-SUFFIX,larkofficeimg.com
+DOMAIN-SUFFIX,larkofficepkg.com
+DOMAIN-SUFFIX,larksuite.com
+DOMAIN-SUFFIX,larksuitecdn.com
+DOMAIN-SUFFIX,larksuiteimg.com
+DOMAIN-SUFFIX,larkmeetings.cn
+DOMAIN-SUFFIX,larkmeetings.com
+DOMAIN-SUFFIX,larkrooms.cn
+DOMAIN-SUFFIX,larkrooms.com
+DOMAIN-SUFFIX,larkvc.com
+DOMAIN-SUFFIX,statuslarkoffice.com
+
+# Feishu
+# Source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/feishu
+DOMAIN-SUFFIX,feishu.cn
+DOMAIN-SUFFIX,feishu.net
+DOMAIN-SUFFIX,feishuapp.cn
+DOMAIN-SUFFIX,feishuapp.com
+DOMAIN-SUFFIX,feishuapp-cdn.net
+DOMAIN-SUFFIX,feishucdn.com
+DOMAIN-SUFFIX,feishudoc.cn
+DOMAIN-SUFFIX,feishudoc.com
+DOMAIN-SUFFIX,feishuimg.com
+DOMAIN-SUFFIX,feishukacdn.com
+DOMAIN-SUFFIX,feishumeetings.cn
+DOMAIN-SUFFIX,feishumeetings.com
+DOMAIN-SUFFIX,feishuoffice.cn
+DOMAIN-SUFFIX,feishuoffice.com
+DOMAIN-SUFFIX,feishupkg.com
+DOMAIN-SUFFIX,feishuvc.cn
+DOMAIN-SUFFIX,feishuvc.com
+DOMAIN-SUFFIX,securityfeishu.cn
+DOMAIN-SUFFIX,securityfs.cn
+DOMAIN-SUFFIX,feishustatus.cn
+DOMAIN-SUFFIX,statusfeishu.cn
+
 # Douyin, Toutiao and Xigua
 # Source: ByteDance/ByteDance.list
 # Additional source: China/China_All.list
@@ -120,6 +162,57 @@ DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,ixiguavideo.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,byteimg.com
+
+# ByteDance APIs and static resources
+# Source: ByteDance/ByteDance.list
+DOMAIN-SUFFIX,bytedance.cn
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytedance.net
+DOMAIN-SUFFIX,bytedanceapi.com
+DOMAIN-SUFFIX,bytecdn.cn
+DOMAIN-SUFFIX,bytecdn.com
+DOMAIN-SUFFIX,bytecdntp.com
+DOMAIN-SUFFIX,byted-static.com
+DOMAIN-SUFFIX,bytedns.net
+DOMAIN-SUFFIX,bytedns1.com
+DOMAIN-SUFFIX,bytedns2.com
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,bytefcdn.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,bytegoofy.com
+DOMAIN-SUFFIX,bytegslb.com
+DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,bytesyscdn.com
+DOMAIN-SUFFIX,bytetos.com
+DOMAIN-SUFFIX,ibytedapm.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,zijiecdn.com
+DOMAIN-SUFFIX,zijieimg.com
+DOMAIN-SUFFIX,zjcdn.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,toutiaocdn.com
+DOMAIN-SUFFIX,toutiaostatic.com
+
+# Lark shared monitoring and resource domains
+# Source: https://www.larksuite.com/
+DOMAIN-SUFFIX,bytedapm.com
+DOMAIN-SUFFIX,ibytedtos.com
+
+# Doubao and Volcengine
+# Source: ByteDance/ByteDance.list
+DOMAIN-SUFFIX,doubao.cn
+DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,volcengine.com
+DOMAIN-SUFFIX,volccdn.com
+DOMAIN-SUFFIX,volces.com
+
+# Jianying and Jimeng
+# Source: https://raw.githubusercontent.com/v2fly/domain-list-community/master/data/bytedance
+DOMAIN-SUFFIX,jianying.com
+DOMAIN-SUFFIX,jimeng.com
+DOMAIN-SUFFIX,vlabimg.com
+DOMAIN-SUFFIX,vlabstatic.com
+DOMAIN-SUFFIX,vlabvod.com
 
 # Kuaishou
 # Source: KuaiShou/KuaiShou.list
